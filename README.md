@@ -3,7 +3,7 @@ This project analyzes the fiscal status of Primez SACCO and compares it to a set
 Table of Contents
 Overview: #overview
 Problem Statement: #problem-statement
-Data: #data
+Data: 
 Tools and Libraries: #tools-and-libraries
 Key Steps: #key-steps
 Running the Project: #running-the-project
